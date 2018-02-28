@@ -1,0 +1,1 @@
+# ВХодная точка - TextHandlerCommand
